@@ -63,3 +63,7 @@ font-family: myFirstFont;
     padding-bottom: 150px;
     text-align: center;
 }
+p {
+padding-right: 80px;
+    padding-left: 80px;
+}
